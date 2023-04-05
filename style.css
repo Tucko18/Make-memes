@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: linear-gradient( 90deg, black, purple);
+}
+h1{
+    font-family: 'Delicious Handrawn', cursive;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30pt;
+    margin-top: 10pt;
+}
+#crazydog{
+    width: 5%;
+    margin-left: 300pt;
+    margin-top: -600pt;
+}
+#drake{
+    width: 40%;
+    margin-left: 10pt;
+}
+#heart{
+    width: 37%;
+    margin-left: 21%;
+}
+h2{
+    font-family: 'Delicious Handrawn', cursive;
+
+}

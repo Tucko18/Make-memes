@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: linear-gradient( 90deg, black, purple);
+}
+#drakememe{
+    width: 30%;
+    margin-left: 350pt;
+}
+#fala1{
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    font-size: 1.2rem;
+      margin: 0 auto;
+    padding: 1.5rem 2rem;
+    border-radius: 0.2rem;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    width: 90%;
+    display: block;
+    border-bottom: 0.3rem solid transparent;
+    transition: all 0.3s;
+    margin-top: 40pt;
+}
+#fala2{
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    font-size: 1.2rem;
+      margin: 0 auto;
+    padding: 1.5rem 2rem;
+    border-radius: 0.2rem;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    width: 90%;
+    display: block;
+    border-bottom: 0.3rem solid transparent;
+    transition: all 0.3s;
+    margin-top: 40pt;
+}
+#res1{
+    margin-top: -430pt;
+    font-size: 12pt;
+    color: rgb(0, 0, 0);
+    margin-left: 52%;
+    height: 40pt;
+    font-family: 'Delicious Handrawn', cursive;
+font-family: 'DM Sans', sans-serif;
+}
+#res2{
+    font-size: 12pt;
+    color: rgb(0, 0, 0);
+    margin-left: 52%;
+    margin-top: 100pt;
+    font-family: 'Delicious Handrawn', cursive;
+font-family: 'DM Sans', sans-serif;
+}
